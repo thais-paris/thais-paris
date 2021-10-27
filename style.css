@@ -1,0 +1,71 @@
+.title{
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 300;
+  font-size: 90px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  text-align: center;
+    vertical-align: middle }
+
+
+#block {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 300px;
+  text-align: center;
+}
+
+body div:hover{
+  background:url('https://cdn.pixabay.com/photo/2014/03/25/16/57/disco-297670_960_720.png');
+  border-radius: 5px;
+  color:  rgb(230, 124, 39);
+  text-decoration: solid;
+}
+
+h2 {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  text-align: center;
+}
+
+.image {
+   display: block;
+   margin-top: auto;
+   margin-bottom: auto;
+ margin-left: auto;
+ margin-right: auto;
+ width: 10%;
+}
+
+body {
+  display: block;
+  background:url('https://cdn.pixabay.com/photo/2016/04/24/18/04/seventies-1350284_960_720.png');
+  border-radius: 5px;
+}
+
+ul {
+  text-align: center;
+}
+
+.list-media {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-media li {
+  display: inline;
+  padding: 10px;
+}
+.list-media i {
+  font-size: 100px;
+  color: rgba(255, 81, 0, 0.39);
+}
+.list-media i:hover {
+  color: rgb(230, 124, 39);
+}
